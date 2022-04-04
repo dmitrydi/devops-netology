@@ -7,4 +7,5 @@
  - файлы с расширениями .tfvars, .tfvars.json
  - файлы override
  - CLI файлы конфигурации
- 
+new line
+
